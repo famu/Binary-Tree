@@ -1,4 +1,4 @@
 Binary-Tree
 ===========
 
-Reads sequence of numbers from input file and prints a binary tree on the console window.
+Reads sequence of numbers representing a tree from input file and prints it on the console window with it's nodes and edges.
